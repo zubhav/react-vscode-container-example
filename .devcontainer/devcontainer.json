@@ -8,7 +8,7 @@
 		"Tyriar.sort-lines"
 	],
     "settings": {
-        "terminal.integrated.shell.linux": "/bin/bash"
+        "terminal.integrated.shell.linux": "/bin/zsh"
     },
     "postCreateCommand": "yarn"
 }
